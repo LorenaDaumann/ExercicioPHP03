@@ -1,3 +1,4 @@
+# Atividade proposta
 Crie um formulário que recebe: nome, curso, idade e tipo de participação (ouvinte ou apresentador). O formulario deve enviar as informações via POST.
 
 Na pagina de processamento, valide os dados  informados e crie funções para:
